@@ -18,7 +18,7 @@ Actualmente curso la **Licenciatura en Computación en la Universidad Central de
 | Área | Tecnologías |
 | :--- | :--- |
 | **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS, Redux Toolkit |
-| **Backend & Datos** | Node.js, Express, PostgreSQL, Supabase (Auth & RLS), REST APIs, Firebase |
+| **Backend & Datos** | Node.js, Express, PostgreSQL, MongoDB, Supabase (Auth & RLS), REST APIs, Firebase |
 | **Lenguajes** | TypeScript, JavaScript (ES6+), Java, SQL, C/C++ |
 | **DevOps & Herramientas** | Git, GitHub, Docker, CI/CD, Vercel, Cloudflare, Figma, n8n |
 
