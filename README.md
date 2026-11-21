@@ -1,3 +1,5 @@
+![Carlos Mata - Full Stack Developer](./banner.png)
+
 ### Hola, soy Carlos Mata 👋
 
 **Desarrollador de Software Full Stack** especializado en diseñar y desplegar aplicaciones web escalables, arquitecturas SaaS multi-tenant e integraciones con APIs de Inteligencia Artificial (LLMs). 
